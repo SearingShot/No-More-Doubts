@@ -23,8 +23,8 @@
 
 ## Pics of the application
 
-[Homepage]("https://github.com/SearingShot/No-More-Doubts/blob/main/Screenshots/NoMoreDoubts1.jpg")
-[Ask Your Doubts]("https://github.com/SearingShot/No-More-Doubts/blob/main/Screenshots/AskPublicQuestion.jpg")
+<img src="https://github.com/SearingShot/No-More-Doubts/blob/main/Screenshots/NoMoreDoubts1.jpg">
+<img src="https://github.com/SearingShot/No-More-Doubts/blob/main/Screenshots/AskPublicQuestion.jpg">
 
 ## Live Link for the website:
 
