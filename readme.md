@@ -1,5 +1,5 @@
 # No-More-Doubts
-- This website is a Question Answer Forum. Made For Solving Doubts 
+- This website is a Question Answer Forum. Made For Solving Doubts, as a part of major project.
 
 ## Technologies used:
 
